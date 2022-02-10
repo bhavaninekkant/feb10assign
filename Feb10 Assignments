@@ -1,0 +1,9 @@
+n = int(input("enter n:"))
+if n >= 0
+print('given number is positive')
+else
+print('given number is negative')
+
+Output:
+Enter a number:85
+It is a positive number
